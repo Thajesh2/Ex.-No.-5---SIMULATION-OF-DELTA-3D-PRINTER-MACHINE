@@ -27,12 +27,23 @@
 ## OUTPUT:
 ![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/10304caa-3e0f-4c4a-bd73-3cadb477a64b)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/113594316/1f3e6b6d-0724-41dc-b7d2-15516060d066)
+#### BASE :
+The foundation of the printer, typically made of sturdy materials such as metal or plastic.
+#### HOLDER :
+A part that holds the linear rails and/or motor in place
+#### ROD :
+Vertical rails that the printer's effector (the part that moves around to print) travels up and down.
+#### TOP COVER :
+A cover that goes over the top of the printer to protect it from dust and debris.
+#### TOP COVER FRAME :
+A frame that supports the top cover
+#### LINEAR RAIL :
+A type of guide rail that provides smooth, precise movement for the printer's effector.
+#### MOTOR :
+A motor that provides the movement for th…
 
-## Output:
-
-### Name:
-### Register Number:
+### Name: Thajesh k
+### Register Number: 23004042
 
 ## Result: 
 ### Thus the simulation on construction of delta 3D printer is completed & movement of axis along X, Y, & Z has been studied.
